@@ -1,0 +1,3 @@
+aws ec2 run-instances  --image-id  ami-052c08d70def0ac62  --instance-type  t2.micro --count 1   --subnet-id subnet-0f0f9c0ad1d464272 --security-group-ids sg-09f6ca37ea9000fc8  --key-name  openstack
+
+
