@@ -1,0 +1,1 @@
+aws ec2 attach-volume    --volumeid vol-0acc6cb5d5614a1d8  --instance-id  i-0b6cedd761c2c0230   --device  /dev/sdf
